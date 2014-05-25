@@ -8,7 +8,7 @@
 ## 4. set the value of the inverse of the matrix 
 
 makeCacheMatrix <- function(x = matrix()) {
-        
+    
         ## initialize the "global variable to null"
         m <- NULL
         
